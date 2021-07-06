@@ -1,8 +1,9 @@
-package lesson8.homework.utils;
+package homework4.utils;
 
-import lesson8.homework.exceptions.UserExpectedError;
-import lesson8.homework.exceptions.WrongFieldException;
-import lesson8.homework.exceptions.WrongSumException;
+
+import homework4.exceptions.UserExpectedError;
+import homework4.exceptions.WrongFieldException;
+import homework4.exceptions.WrongSumException;
 
 public class Helper {
 

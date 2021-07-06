@@ -1,4 +1,4 @@
-package lesson5.homework;
+package homework1;
 
 
 public class UserService extends AbstractService implements  Service {

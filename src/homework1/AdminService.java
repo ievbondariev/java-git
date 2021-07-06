@@ -1,4 +1,4 @@
-package lesson5.homework;
+package homework1;
 
 import java.io.File;
 import java.io.FileWriter;
